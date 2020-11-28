@@ -1,6 +1,6 @@
 <html>
 <body>
-Hello world from HTML! br />
+Hello world from HTML! <br />
 
 <?php
 
